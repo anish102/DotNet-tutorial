@@ -1,0 +1,15 @@
+/home/user/Desktop/DotNet/OOP/obj/Debug/net8.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Desktop/DotNet/OOP/obj/Debug/net8.0/OOP.AssemblyInfoInputs.cache
+/home/user/Desktop/DotNet/OOP/obj/Debug/net8.0/OOP.AssemblyInfo.cs
+/home/user/Desktop/DotNet/OOP/obj/Debug/net8.0/OOP.csproj.CoreCompileInputs.cache
+/home/user/Desktop/DotNet/OOP/obj/Debug/net8.0/OOP.sourcelink.json
+/home/user/Desktop/DotNet/OOP/bin/Debug/net8.0/OOP
+/home/user/Desktop/DotNet/OOP/bin/Debug/net8.0/OOP.deps.json
+/home/user/Desktop/DotNet/OOP/bin/Debug/net8.0/OOP.runtimeconfig.json
+/home/user/Desktop/DotNet/OOP/bin/Debug/net8.0/OOP.dll
+/home/user/Desktop/DotNet/OOP/bin/Debug/net8.0/OOP.pdb
+/home/user/Desktop/DotNet/OOP/obj/Debug/net8.0/OOP.dll
+/home/user/Desktop/DotNet/OOP/obj/Debug/net8.0/refint/OOP.dll
+/home/user/Desktop/DotNet/OOP/obj/Debug/net8.0/OOP.pdb
+/home/user/Desktop/DotNet/OOP/obj/Debug/net8.0/OOP.genruntimeconfig.cache
+/home/user/Desktop/DotNet/OOP/obj/Debug/net8.0/ref/OOP.dll
