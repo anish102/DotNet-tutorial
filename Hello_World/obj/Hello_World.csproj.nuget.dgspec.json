@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/user/Desktop/DotNet/Practice/Practice.csproj": {}
+    "/home/user/Desktop/DotNet/Hello_World/Hello_World.csproj": {}
   },
   "projects": {
-    "/home/user/Desktop/DotNet/Practice/Practice.csproj": {
+    "/home/user/Desktop/DotNet/Hello_World/Hello_World.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/user/Desktop/DotNet/Practice/Practice.csproj",
-        "projectName": "Practice",
-        "projectPath": "/home/user/Desktop/DotNet/Practice/Practice.csproj",
+        "projectUniqueName": "/home/user/Desktop/DotNet/Hello_World/Hello_World.csproj",
+        "projectName": "Hello_World",
+        "projectPath": "/home/user/Desktop/DotNet/Hello_World/Hello_World.csproj",
         "packagesPath": "/home/user/.nuget/packages/",
-        "outputPath": "/home/user/Desktop/DotNet/Practice/obj/",
+        "outputPath": "/home/user/Desktop/DotNet/Hello_World/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/user/.nuget/NuGet/NuGet.Config"
