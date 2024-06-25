@@ -1,0 +1,15 @@
+/home/user/Desktop/DotNet/Conditionals_Loops/bin/Debug/net8.0/Conditionals_Loops
+/home/user/Desktop/DotNet/Conditionals_Loops/bin/Debug/net8.0/Conditionals_Loops.deps.json
+/home/user/Desktop/DotNet/Conditionals_Loops/bin/Debug/net8.0/Conditionals_Loops.runtimeconfig.json
+/home/user/Desktop/DotNet/Conditionals_Loops/bin/Debug/net8.0/Conditionals_Loops.dll
+/home/user/Desktop/DotNet/Conditionals_Loops/bin/Debug/net8.0/Conditionals_Loops.pdb
+/home/user/Desktop/DotNet/Conditionals_Loops/obj/Debug/net8.0/Conditionals_Loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Desktop/DotNet/Conditionals_Loops/obj/Debug/net8.0/Conditionals_Loops.AssemblyInfoInputs.cache
+/home/user/Desktop/DotNet/Conditionals_Loops/obj/Debug/net8.0/Conditionals_Loops.AssemblyInfo.cs
+/home/user/Desktop/DotNet/Conditionals_Loops/obj/Debug/net8.0/Conditionals_Loops.csproj.CoreCompileInputs.cache
+/home/user/Desktop/DotNet/Conditionals_Loops/obj/Debug/net8.0/Conditionals_Loops.sourcelink.json
+/home/user/Desktop/DotNet/Conditionals_Loops/obj/Debug/net8.0/Conditionals_Loops.dll
+/home/user/Desktop/DotNet/Conditionals_Loops/obj/Debug/net8.0/refint/Conditionals_Loops.dll
+/home/user/Desktop/DotNet/Conditionals_Loops/obj/Debug/net8.0/Conditionals_Loops.pdb
+/home/user/Desktop/DotNet/Conditionals_Loops/obj/Debug/net8.0/Conditionals_Loops.genruntimeconfig.cache
+/home/user/Desktop/DotNet/Conditionals_Loops/obj/Debug/net8.0/ref/Conditionals_Loops.dll
