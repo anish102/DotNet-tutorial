@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ENTITYcodefirst23.props" />
+</Project>
